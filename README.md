@@ -10,4 +10,4 @@ This repository collects selected data science and machine learning projects, wi
 - XGBoost selected as the primary model based on ROC-AUC  
 - Global and local explainability using SHAP  
 
-Repository: [https://github.com/m-zhokhova/explainable-insurance-purchase-prediction]
+Repository: https://github.com/m-zhokhova/explainable-insurance-purchase-prediction
