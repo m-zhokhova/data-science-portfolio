@@ -1,5 +1,3 @@
-# data-science-portfolio
-
 # Data Science Portfolio
 
 This repository collects selected data science and machine learning projects, with a focus on structured analysis, model comparison, and interpretability.
@@ -12,4 +10,4 @@ This repository collects selected data science and machine learning projects, wi
 - XGBoost selected as the primary model based on ROC-AUC  
 - Global and local explainability using SHAP  
 
-Repository: https://github.com/YOUR_USERNAME/explainable-insurance-purchase
+Repository: [https://github.com/m-zhokhova/explainable-insurance-purchase-prediction]
