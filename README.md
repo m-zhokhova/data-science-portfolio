@@ -11,3 +11,13 @@ This repository collects selected data science and machine learning projects, wi
 - Global and local explainability using SHAP  
 
 Repository: https://github.com/m-zhokhova/explainable-insurance-purchase-prediction
+
+### Subjective Wine Ratings Analysis
+- Exploratory data analysis of expert wine ratings with subjective targets  
+- Clustering based on numerical features (price, age, alcohol) versus categorical composition (grapes, region, producer)  
+- Supervised modeling using linear regression, random forest, and gradient boosting  
+- Comparison of numerical-only, categorical-only, and combined feature sets  
+- Explainability with SHAP to assess global and local feature contributions  
+- Case study on feature relevance, model limits, and low-signal datasets  
+
+Repository: https://github.com/m-zhokhova/subjective-wine-ratings-analysis
